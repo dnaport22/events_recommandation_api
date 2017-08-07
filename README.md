@@ -22,19 +22,19 @@ A basic rest client built over Django to interact with [Event Matching ML Engine
 - [Events_ML_NLP_MatchingEngine](https://acrotrend.visualstudio.com/_git/Events_ML_NLP_MatchingEngine) installed
 
 ## Basics
-<pre>
+```bash
 > git clone ssh://acrotrend@acrotrend.visualstudio.com:22/
 Events_ML_NLP_MatchingEngine/_git/
 Events_ML_NLP_MatchingEngine_API
-</pre>
+```
 
-<pre>
+```bash
 > cd Events_ML_NLP_MatchingEngine_API
 
 > pip install -r requirements.txt
 
 > python manage.py runserver
-</pre>
+```
 
 ## Sample
 ### Endpoint 
