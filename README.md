@@ -38,9 +38,9 @@ Events_ML_NLP_MatchingEngine_API
 
 ## Sample
 ### Endpoint 
-`POST /events-matching/`<br>
+`POST /events-matching/`
 
-`Content-Type: application/json`<br>
+`Content-Type: application/json`
 
 `Data:`
  
