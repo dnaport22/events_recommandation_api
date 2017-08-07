@@ -1,4 +1,4 @@
-<h1>Events Matching REST API Interface</h1>
+#Events Matching REST API Interface
 
 ## Introduction
 A basic rest client built over Django to interact with [Event Matching ML Engine](https://acrotrend.visualstudio.com/_git/Events_ML_NLP_MatchingEngine). The current version of the api has one exposed   `POST /events-matching/` endpoint and the payload will consist of a json object which will include profile data of a delegate and a supplier.
